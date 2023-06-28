@@ -1,0 +1,56 @@
+ [
+            {
+                "id": 1,
+                "name": "DECAF",
+                "image": "https://i.postimg.cc/1tLCmqcQ/Alesso-Platinum-Coffee-Beans-1kg-Decaf.webp",
+                "price": 170.99
+            },
+            {
+                "id": 2,
+                "name": "ARABICA",
+                "image" : "https://i.postimg.cc/MKYD444x/1kg-Home-Blend-Coffee-Medium-Roast-Beans.jpg",
+                "price": 109.99
+            },
+            {
+                "id": 3,
+                "name" : "Strictly coffee",
+                "image": "https://i.postimg.cc/cLG18tHF/Strictly-Coffee-Jackson-Brown-Blend-Ground-1kg.jpg",
+                "price": 209.99
+            },
+            {
+                "id": 4,
+                "name" : "ARABICA",
+                "image" : "https://i.postimg.cc/MKYD444x/1kg-Home-Blend-Coffee-Medium-Roast-Beans.jpg",
+                "price": 199.99
+            },
+            {
+                "id": 5,
+                "name" : "Strictly coffee",
+                "image": "https://i.postimg.cc/kMZgqpd3/Strictly-Coffee-Jackson-Brown-Blend-Ground-1kg-Uganda.jpg",
+                "price": 209.99
+            },
+            {
+                "id": 6,
+                "name" : "ARGENTO",
+                "image": "https://i.postimg.cc/PJjWVzQP/Alesso-Platinum-Coffee-Beans-1-kg-Argento-Italian-Espresso.webp",
+                "price": 279.99
+            },
+            {
+                "id": 7,
+                "name" : "Strictly coffee",
+                "image": "https://i.postimg.cc/kMZgqpd3/Strictly-Coffee-Jackson-Brown-Blend-Ground-1kg-Uganda.jpg",
+                "price": 209.99
+            },
+            {
+                "id": 8,
+                "name" : "ARGENTO",
+                "image": "https://i.postimg.cc/PJjWVzQP/Alesso-Platinum-Coffee-Beans-1-kg-Argento-Italian-Espresso.webp",
+                "price": 279.99
+            },
+            {
+                "id": 9,
+                "name" : "ARABICA",
+                "image": "https://i.postimg.cc/MKYD444x/1kg-Home-Blend-Coffee-Medium-Roast-Beans.jpg",
+                "price": 199.99
+            }
+]
